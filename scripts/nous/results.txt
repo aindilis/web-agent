@@ -1,0 +1,912 @@
+ocasys University of Groningen ocasys Toon vak Computational Semantics
+[ocasys] POS [NNS]] NER [O] isNP [true]
+[University] POS [NNP]] NER [ORGANIZATION] isNP [true]
+[of] POS [IN]] NER [ORGANIZATION] isNP [false]
+[Groningen] POS [NNP]] NER [ORGANIZATION] isNP [true]
+[ocasys] POS [NNS]] NER [O] isNP [true]
+[Toon] POS [VBP]] NER [O] isNP [false]
+[vak] POS [NN]] NER [O] isNP [true]
+[Computational] POS [JJ]] NER [O] isNP [false]
+[Semantics] POS [NNS]] NER [O] isNP [true]
+********** NER output **********
+O:ocasys University
+ORGANIZATION:Groningen ocasys
+O:vak
+O:Semantics
+********** OpenIE output **********
+ocasys University	Toon	vak Semantics		
+ocasys University	Toon	vak Computational Semantics		
+********** Purged output **********
+ocasys University	Toon	vak Computational Semantics		
+********** Final output **********
+ocasys University	rdf:type	O		
+Groningen ocasys	rdf:type	ORGANIZATION		
+vak	rdf:type	O		
+Semantics	rdf:type	O		
+ocasys University	Toon	vak Computational Semantics		
+• [home] • print • loginLogin • Zet voorkeurtaal op EngelsEnglish • Zet voorkeurtaal op NederlandsNederlands • Jaar: [2020/21]
+[•] POS [NN]] NER [O] isNP [true]
+[-LSB-] POS [-LRB-]] NER [O] isNP [false]
+[home] POS [NN]] NER [O] isNP [true]
+[-RSB-] POS [-RRB-]] NER [O] isNP [false]
+[•] POS [CD]] NER [NUMBER] isNP [false]
+[print] POS [NN]] NER [O] isNP [true]
+[•] POS [CD]] NER [NUMBER] isNP [false]
+[loginLogin] POS [NN]] NER [O] isNP [true]
+[•] POS [CD]] NER [NUMBER] isNP [false]
+[Zet] POS [NN]] NER [O] isNP [true]
+[voorkeurtaal] POS [NN]] NER [O] isNP [true]
+[op] POS [NN]] NER [O] isNP [true]
+[EngelsEnglish] POS [JJ]] NER [MISC] isNP [false]
+[•] POS [CD]] NER [NUMBER] isNP [false]
+[Zet] POS [NN]] NER [O] isNP [true]
+[voorkeurtaal] POS [NN]] NER [O] isNP [true]
+[op] POS [NN]] NER [O] isNP [true]
+[NederlandsNederlands] POS [NNS]] NER [O] isNP [true]
+[•] POS [VBP]] NER [O] isNP [false]
+[Jaar] POS [NNP]] NER [O] isNP [true]
+[:] POS [:]] NER [O] isNP [false]
+[-LSB-] POS [-LRB-]] NER [O] isNP [false]
+[2020/21] POS [CD]] NER [NUMBER] isNP [false]
+[-RSB-] POS [-RRB-]] NER [O] isNP [false]
+********** NER output **********
+O:loginLogin
+O:Jaar
+O:Zet voorkeurtaal op NederlandsNederlands
+O:home
+O:•
+O:print
+O:Zet voorkeurtaal op
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+Zet voorkeurtaal op	rdf:type	O		
+Jaar	rdf:type	O		
+print	rdf:type	O		
+Zet voorkeurtaal op NederlandsNederlands	rdf:type	O		
+home	rdf:type	O		
+•	rdf:type	O		
+loginLogin	rdf:type	O		
+Rijksuniversiteit Groningen Zoek vakken Zoek opleidingen Toon opleidingen per faculteit Over Ocasys
+[Rijksuniversiteit] POS [NNP]] NER [PERSON] isNP [true]
+[Groningen] POS [NNP]] NER [PERSON] isNP [true]
+[Zoek] POS [NNP]] NER [PERSON] isNP [true]
+[vakken] POS [NN]] NER [O] isNP [true]
+[Zoek] POS [NN]] NER [O] isNP [true]
+[opleidingen] POS [NN]] NER [O] isNP [true]
+[Toon] POS [NN]] NER [O] isNP [true]
+[opleidingen] POS [NN]] NER [O] isNP [true]
+[per] POS [IN]] NER [O] isNP [false]
+[faculteit] POS [NN]] NER [O] isNP [true]
+[Over] POS [IN]] NER [O] isNP [false]
+[Ocasys] POS [NNS]] NER [O] isNP [true]
+********** NER output **********
+PERSON:Rijksuniversiteit Groningen Zoek vakken Zoek opleidingen Toon opleidingen
+O:faculteit
+O:Ocasys
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+Rijksuniversiteit Groningen Zoek vakken Zoek opleidingen Toon opleidingen	rdf:type	PERSON		
+faculteit	rdf:type	O		
+Ocasys	rdf:type	O		
+Computational Semantics
+[Computational] POS [JJ]] NER [O] isNP [false]
+[Semantics] POS [NNS]] NER [O] isNP [true]
+********** NER output **********
+O:Semantics
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+Semantics	rdf:type	O		
+Faculteit Letteren Jaar 2020/21 Vakcode LIX021M05 Vaknaam Computational Semantics Niveau(s) master Voertaal Engels Periode semester I b ECTS 5 Rooster Concept rooster
+[Faculteit] POS [NNP]] NER [O] isNP [true]
+[Letteren] POS [NNP]] NER [O] isNP [true]
+[Jaar] POS [NNP]] NER [O] isNP [true]
+[2020/21] POS [CD]] NER [NUMBER] isNP [false]
+[Vakcode] POS [NNP]] NER [O] isNP [true]
+[LIX021M05] POS [NNP]] NER [O] isNP [true]
+[Vaknaam] POS [NNP]] NER [O] isNP [true]
+[Computational] POS [NNP]] NER [O] isNP [true]
+[Semantics] POS [NNP]] NER [O] isNP [true]
+[Niveau] POS [NNP]] NER [O] isNP [true]
+[-LRB-] POS [-LRB-]] NER [O] isNP [false]
+[s] POS [NNS]] NER [O] isNP [true]
+[-RRB-] POS [-RRB-]] NER [O] isNP [false]
+[master] POS [NN]] NER [O] isNP [true]
+[Voertaal] POS [NNP]] NER [PERSON] isNP [true]
+[Engels] POS [NNP]] NER [PERSON] isNP [true]
+[Periode] POS [NNP]] NER [PERSON] isNP [true]
+[semester] POS [NN]] NER [O] isNP [true]
+[I] POS [CD]] NER [NUMBER] isNP [false]
+[b] POS [NN]] NER [O] isNP [true]
+[ECTS] POS [NNS]] NER [O] isNP [true]
+[5] POS [CD]] NER [NUMBER] isNP [false]
+[Rooster] POS [NNP]] NER [O] isNP [true]
+[Concept] POS [NNP]] NER [O] isNP [true]
+[rooster] POS [NN]] NER [O] isNP [true]
+********** NER output **********
+O:master Voertaal Engels Periode semester
+O:Vakcode LIX021M05 Vaknaam Computational Semantics Niveau
+O:Faculteit Letteren Jaar
+O:b ECTS
+O:Rooster Concept rooster
+O:s
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+Faculteit Letteren Jaar	rdf:type	O		
+b ECTS	rdf:type	O		
+s	rdf:type	O		
+Vakcode LIX021M05 Vaknaam Computational Semantics Niveau	rdf:type	O		
+Rooster Concept rooster	rdf:type	O		
+master Voertaal Engels Periode semester	rdf:type	O		
+Uitgebreide Computational Semantics vaknaam The student who masters the theory and techniques given in this course will be in a good position to appreciate and critically assess ongoing developments in computational semantics and semantic annotation.
+[Uitgebreide] POS [NNP]] NER [O] isNP [true]
+[Computational] POS [NNP]] NER [O] isNP [true]
+[Semantics] POS [NNP]] NER [O] isNP [true]
+[vaknaam] POS [NN]] NER [O] isNP [true]
+[The] POS [DT]] NER [O] isNP [false]
+[student] POS [NN]] NER [O] isNP [true]
+[who] POS [WP]] NER [O] isNP [false]
+[masters] POS [NNS]] NER [O] isNP [true]
+[the] POS [DT]] NER [O] isNP [false]
+[theory] POS [NN]] NER [O] isNP [true]
+[and] POS [CC]] NER [O] isNP [false]
+[techniques] POS [NNS]] NER [O] isNP [true]
+[given] POS [VBN]] NER [O] isNP [false]
+[in] POS [IN]] NER [O] isNP [false]
+[this] POS [DT]] NER [O] isNP [false]
+[course] POS [NN]] NER [O] isNP [true]
+[will] POS [MD]] NER [O] isNP [false]
+[be] POS [VB]] NER [O] isNP [false]
+[in] POS [IN]] NER [O] isNP [false]
+[a] POS [DT]] NER [O] isNP [false]
+[good] POS [JJ]] NER [O] isNP [false]
+[position] POS [NN]] NER [O] isNP [true]
+[to] POS [TO]] NER [O] isNP [false]
+[appreciate] POS [VB]] NER [O] isNP [false]
+[and] POS [CC]] NER [O] isNP [false]
+[critically] POS [RB]] NER [O] isNP [false]
+[assess] POS [VB]] NER [O] isNP [false]
+[ongoing] POS [JJ]] NER [O] isNP [false]
+[developments] POS [NNS]] NER [O] isNP [true]
+[in] POS [IN]] NER [O] isNP [false]
+[computational] POS [JJ]] NER [O] isNP [false]
+[semantics] POS [NNS]] NER [O] isNP [true]
+[and] POS [CC]] NER [O] isNP [false]
+[semantic] POS [JJ]] NER [O] isNP [false]
+[annotation] POS [NN]] NER [O] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:course
+O:semantics
+O:masters
+O:developments
+O:theory
+O:student
+O:annotation
+O:position
+O:Uitgebreide Computational Semantics vaknaam
+O:techniques
+********** OpenIE output **********
+will position	appreciate	developments in semantics		
+will good position	appreciate	developments		
+will position	appreciate	developments		
+will good position	appreciate	developments in semantics		
+ongoing developments	is in	computational semantics		
+student	be	good		
+********** Purged output **********
+will good position	appreciate	developments in semantics		
+student	be	good		
+ongoing developments	is in	computational semantics		
+will position	appreciate	developments in semantics		
+********** Final output **********
+annotation	rdf:type	O		
+theory	rdf:type	O		
+developments	rdf:type	O		
+student	rdf:type	O		
+techniques	rdf:type	O		
+semantics	rdf:type	O		
+course	rdf:type	O		
+masters	rdf:type	O		
+position	rdf:type	O		
+Uitgebreide Computational Semantics vaknaam	rdf:type	O		
+will good position	appreciate	developments in semantics		
+student	be	good		
+ongoing developments	is in	computational semantics		
+will position	appreciate	developments in semantics		
+After the course the student is able to give a formal semantic analysis of a Leerdoelen fragment of natural language and also provide a compositional semantics of a (simple) sentence using the lambda calculus.
+[After] POS [IN]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[course] POS [NN]] NER [O] isNP [true]
+[the] POS [DT]] NER [O] isNP [false]
+[student] POS [NN]] NER [O] isNP [true]
+[is] POS [VBZ]] NER [O] isNP [false]
+[able] POS [JJ]] NER [O] isNP [false]
+[to] POS [TO]] NER [O] isNP [false]
+[give] POS [VB]] NER [O] isNP [false]
+[a] POS [DT]] NER [O] isNP [false]
+[formal] POS [JJ]] NER [O] isNP [false]
+[semantic] POS [JJ]] NER [O] isNP [false]
+[analysis] POS [NN]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[a] POS [DT]] NER [O] isNP [false]
+[Leerdoelen] POS [JJ]] NER [MISC] isNP [false]
+[fragment] POS [NN]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[natural] POS [JJ]] NER [O] isNP [false]
+[language] POS [NN]] NER [O] isNP [true]
+[and] POS [CC]] NER [O] isNP [false]
+[also] POS [RB]] NER [O] isNP [false]
+[provide] POS [VBP]] NER [O] isNP [false]
+[a] POS [DT]] NER [O] isNP [false]
+[compositional] POS [JJ]] NER [O] isNP [false]
+[semantics] POS [NNS]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[a] POS [DT]] NER [O] isNP [false]
+[-LRB-] POS [-LRB-]] NER [O] isNP [false]
+[simple] POS [JJ]] NER [O] isNP [false]
+[-RRB-] POS [-RRB-]] NER [O] isNP [false]
+[sentence] POS [NN]] NER [O] isNP [true]
+[using] POS [VBG]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[lambda] POS [NN]] NER [O] isNP [true]
+[calculus] POS [NN]] NER [O] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:course
+O:lambda calculus
+O:semantics
+O:analysis
+O:sentence
+O:language
+O:fragment
+O:student
+********** OpenIE output **********
+analysis	also provide	compositional semantics		
+analysis	also provide	semantics of sentence		
+student	give	semantic analysis		
+formal analysis	provide	compositional semantics		
+analysis	provide	semantics		
+student	give	formal semantic analysis of Leerdoelen fragment		
+semantic analysis	provide	compositional semantics of sentence		
+student	give	formal analysis of Leerdoelen fragment of natural language		
+formal analysis	provide	compositional semantics of sentence		
+student	give	analysis of Leerdoelen fragment		
+analysis	also provide	semantics		
+student	give	formal analysis of Leerdoelen fragment		
+student	give	analysis of fragment of natural language		
+student	give	analysis of fragment of language		
+student	give	formal analysis		
+student	give	analysis of fragment		
+formal semantic analysis	provide	compositional semantics of sentence		
+formal semantic analysis	also provide	compositional semantics		
+semantic analysis	provide	semantics		
+analysis	provide	compositional semantics		
+formal analysis	also provide	semantics		
+semantic analysis	also provide	semantics		
+formal semantic analysis	also provide	semantics		
+student	give	semantic analysis of Leerdoelen fragment of language		
+student	give	analysis		
+student	give	formal analysis of fragment of language		
+student	give	semantic analysis of fragment of language		
+analysis	also provide	compositional semantics of sentence		
+student	give	formal analysis of Leerdoelen fragment of language		
+formal semantic analysis	also provide	compositional semantics of sentence		
+formal analysis	provide	semantics		
+formal semantic analysis	also provide	semantics of sentence		
+student	give	semantic analysis of fragment		
+formal analysis	provide	semantics of sentence		
+semantic analysis	also provide	compositional semantics of sentence		
+semantic analysis	provide	semantics of sentence		
+formal analysis	also provide	compositional semantics		
+student	give	analysis of Leerdoelen fragment of language		
+semantic analysis	also provide	semantics of sentence		
+formal analysis	also provide	compositional semantics of sentence		
+student	give	formal semantic analysis of fragment		
+analysis	provide	compositional semantics of sentence		
+student	give	analysis of Leerdoelen fragment of natural language		
+formal semantic analysis	provide	semantics of sentence		
+formal semantic analysis	provide	semantics		
+student	give	formal analysis of fragment		
+student	is able After	course		
+analysis	provide	semantics of sentence		
+student	give	formal analysis of fragment of natural language		
+semantic analysis	also provide	compositional semantics		
+student	give	semantic analysis of Leerdoelen fragment of natural language		
+student	give	semantic analysis of Leerdoelen fragment		
+student	give	formal semantic analysis		
+student	give	semantic analysis of fragment of natural language		
+semantic analysis	provide	compositional semantics		
+formal semantic analysis	provide	compositional semantics		
+formal analysis	also provide	semantics of sentence		
+********** Purged output **********
+semantic analysis	also provide	compositional semantics of sentence		
+formal analysis	also provide	compositional semantics of sentence		
+formal analysis	provide	compositional semantics of sentence		
+formal semantic analysis	also provide	compositional semantics of sentence		
+student	give	semantic analysis of Leerdoelen fragment of natural language		
+analysis	provide	compositional semantics of sentence		
+formal semantic analysis	provide	compositional semantics of sentence		
+student	is able After	course		
+analysis	also provide	compositional semantics of sentence		
+semantic analysis	provide	compositional semantics of sentence		
+********** Final output **********
+lambda calculus	rdf:type	O		
+analysis	rdf:type	O		
+student	rdf:type	O		
+fragment	rdf:type	O		
+language	rdf:type	O		
+semantics	rdf:type	O		
+course	rdf:type	O		
+sentence	rdf:type	O		
+semantic analysis	also provide	compositional semantics of sentence		
+formal analysis	also provide	compositional semantics of sentence		
+formal analysis	provide	compositional semantics of sentence		
+formal semantic analysis	also provide	compositional semantics of sentence		
+student	give	semantic analysis of Leerdoelen fragment of natural language		
+analysis	provide	compositional semantics of sentence		
+formal semantic analysis	provide	compositional semantics of sentence		
+student	is able After	course		
+analysis	also provide	compositional semantics of sentence		
+semantic analysis	provide	compositional semantics of sentence		
+The student has a good grasp of all these techniques from computational semantics and lexical resources to apply them in a practical application, and a critical awareness of the possibilities and limitations of first-order logic applied to concrete language understanding problems.
+[The] POS [DT]] NER [O] isNP [false]
+[student] POS [NN]] NER [O] isNP [true]
+[has] POS [VBZ]] NER [O] isNP [false]
+[a] POS [DT]] NER [O] isNP [false]
+[good] POS [JJ]] NER [O] isNP [false]
+[grasp] POS [NN]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[all] POS [PDT]] NER [O] isNP [false]
+[these] POS [DT]] NER [O] isNP [false]
+[techniques] POS [NNS]] NER [O] isNP [true]
+[from] POS [IN]] NER [O] isNP [false]
+[computational] POS [JJ]] NER [O] isNP [false]
+[semantics] POS [NNS]] NER [O] isNP [true]
+[and] POS [CC]] NER [O] isNP [false]
+[lexical] POS [JJ]] NER [O] isNP [false]
+[resources] POS [NNS]] NER [O] isNP [true]
+[to] POS [TO]] NER [O] isNP [false]
+[apply] POS [VB]] NER [O] isNP [false]
+[them] POS [PRP]] NER [O] isNP [false]
+[in] POS [IN]] NER [O] isNP [false]
+[a] POS [DT]] NER [O] isNP [false]
+[practical] POS [JJ]] NER [O] isNP [false]
+[application] POS [NN]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[and] POS [CC]] NER [O] isNP [false]
+[a] POS [DT]] NER [O] isNP [false]
+[critical] POS [JJ]] NER [O] isNP [false]
+[awareness] POS [NN]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[possibilities] POS [NNS]] NER [O] isNP [true]
+[and] POS [CC]] NER [O] isNP [false]
+[limitations] POS [NNS]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[first-order] POS [JJ]] NER [O] isNP [false]
+[logic] POS [NN]] NER [O] isNP [true]
+[applied] POS [VBD]] NER [O] isNP [false]
+[to] POS [TO]] NER [O] isNP [false]
+[concrete] POS [JJ]] NER [O] isNP [false]
+[language] POS [NN]] NER [O] isNP [true]
+[understanding] POS [NN]] NER [O] isNP [true]
+[problems] POS [NNS]] NER [O] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:application
+O:semantics
+O:language understanding problems
+O:awareness
+O:student
+O:resources
+O:logic
+O:grasp
+O:limitations
+O:techniques
+O:possibilities
+********** OpenIE output **********
+student awareness	applied to	language understanding problems		
+student critical awareness	applied to	concrete language understanding problems		
+student	has	grasp of techniques from semantics		
+student	has	good grasp of techniques from computational semantics		
+student	apply	computational semantics		
+student	awareness of	possibilities of logic		
+student	has	grasp of techniques from computational semantics		
+student	has	good grasp of techniques from semantics		
+student	critical awareness of	possibilities		
+student	awareness of	possibilities of first-order logic		
+student critical awareness	applied to	language understanding problems		
+student awareness	applied to	concrete language understanding problems		
+student	has	good grasp of techniques		
+student	awareness of	possibilities		
+student	apply computational semantics in	practical application		
+student	critical awareness of	possibilities of logic		
+student	has	grasp of techniques		
+student	apply computational semantics in	application		
+student	critical awareness of	possibilities of first-order logic		
+********** Purged output **********
+student awareness	applied to	concrete language understanding problems		
+student	has	good grasp of techniques from computational semantics		
+student	apply computational semantics in	practical application		
+student	critical awareness of	possibilities of first-order logic		
+student critical awareness	applied to	concrete language understanding problems		
+student	awareness of	possibilities of first-order logic		
+student	apply	computational semantics		
+********** Final output **********
+limitations	rdf:type	O		
+logic	rdf:type	O		
+student	rdf:type	O		
+techniques	rdf:type	O		
+application	rdf:type	O		
+language understanding problems	rdf:type	O		
+resources	rdf:type	O		
+semantics	rdf:type	O		
+possibilities	rdf:type	O		
+awareness	rdf:type	O		
+grasp	rdf:type	O		
+student awareness	applied to	concrete language understanding problems		
+student	has	good grasp of techniques from computational semantics		
+student	apply computational semantics in	practical application		
+student	critical awareness of	possibilities of first-order logic		
+student critical awareness	applied to	concrete language understanding problems		
+student	awareness of	possibilities of first-order logic		
+student	apply	computational semantics		
+This course introduces a number of fundamental techniques for computing semantic representations for natural language.
+[This] POS [DT]] NER [O] isNP [false]
+[course] POS [NN]] NER [O] isNP [true]
+[introduces] POS [VBZ]] NER [O] isNP [false]
+[a] POS [DT]] NER [O] isNP [false]
+[number] POS [NN]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[fundamental] POS [JJ]] NER [O] isNP [false]
+[techniques] POS [NNS]] NER [O] isNP [true]
+[for] POS [IN]] NER [O] isNP [false]
+[computing] POS [VBG]] NER [O] isNP [false]
+[semantic] POS [JJ]] NER [O] isNP [false]
+[representations] POS [NNS]] NER [O] isNP [true]
+[for] POS [IN]] NER [O] isNP [false]
+[natural] POS [JJ]] NER [O] isNP [false]
+[language] POS [NN]] NER [O] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:course
+O:representations
+O:language
+O:techniques
+O:number
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+number	rdf:type	O		
+representations	rdf:type	O		
+techniques	rdf:type	O		
+language	rdf:type	O		
+course	rdf:type	O		
+Both the underlying theory and implementation are discussed.
+[Both] POS [CC]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[underlying] POS [VBG]] NER [O] isNP [false]
+[theory] POS [NN]] NER [O] isNP [true]
+[and] POS [CC]] NER [O] isNP [false]
+[implementation] POS [NN]] NER [O] isNP [true]
+[are] POS [VBP]] NER [O] isNP [false]
+[discussed] POS [VBN]] NER [O] isNP [false]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:theory
+O:implementation
+********** OpenIE output **********
+theory	are	discussed		
+underlying theory	discussed	implementation		
+underlying theory	are	discussed		
+theory	discussed	implementation		
+********** Purged output **********
+theory	discussed	implementation		
+theory	are	discussed		
+underlying theory	are	discussed		
+underlying theory	discussed	implementation		
+********** Final output **********
+theory	rdf:type	O		
+implementation	rdf:type	O		
+theory	discussed	implementation		
+theory	are	discussed		
+underlying theory	are	discussed		
+underlying theory	discussed	implementation		
+The central question addressed in this course is: How can we Omschrijving automate the process of associating semantic representations with expressions of natural language?
+[The] POS [DT]] NER [O] isNP [false]
+[central] POS [JJ]] NER [O] isNP [false]
+[question] POS [NN]] NER [O] isNP [true]
+[addressed] POS [VBD]] NER [O] isNP [false]
+[in] POS [IN]] NER [O] isNP [false]
+[this] POS [DT]] NER [O] isNP [false]
+[course] POS [NN]] NER [O] isNP [true]
+[is] POS [VBZ]] NER [O] isNP [false]
+[:] POS [:]] NER [O] isNP [false]
+[How] POS [WRB]] NER [O] isNP [false]
+[can] POS [MD]] NER [O] isNP [false]
+[we] POS [PRP]] NER [O] isNP [false]
+[Omschrijving] POS [VBG]] NER [O] isNP [false]
+[automate] POS [VB]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[process] POS [NN]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[associating] POS [VBG]] NER [O] isNP [false]
+[semantic] POS [JJ]] NER [O] isNP [false]
+[representations] POS [NNS]] NER [O] isNP [true]
+[with] POS [IN]] NER [O] isNP [false]
+[expressions] POS [NNS]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[natural] POS [JJ]] NER [O] isNP [false]
+[language] POS [NN]] NER [O] isNP [true]
+[?] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:course
+O:representations
+O:process
+O:language
+O:question
+O:expressions
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+process	rdf:type	O		
+representations	rdf:type	O		
+expressions	rdf:type	O		
+language	rdf:type	O		
+course	rdf:type	O		
+question	rdf:type	O		
+Topics that are covered are lexical semantics (word senses, thematic roles), event semantics, logical semantics (quantification, scope, negation, discourse), the syntax-semantics interface, and compositional semantics (lambda-calculus, semantic tagging).
+[Topics] POS [NNS]] NER [O] isNP [true]
+[that] POS [WDT]] NER [O] isNP [false]
+[are] POS [VBP]] NER [O] isNP [false]
+[covered] POS [VBN]] NER [O] isNP [false]
+[are] POS [VBP]] NER [O] isNP [false]
+[lexical] POS [JJ]] NER [O] isNP [false]
+[semantics] POS [NNS]] NER [O] isNP [true]
+[-LRB-] POS [-LRB-]] NER [O] isNP [false]
+[word] POS [NN]] NER [O] isNP [true]
+[senses] POS [NNS]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[thematic] POS [JJ]] NER [O] isNP [false]
+[roles] POS [NNS]] NER [O] isNP [true]
+[-RRB-] POS [-RRB-]] NER [O] isNP [false]
+[,] POS [,]] NER [O] isNP [false]
+[event] POS [NN]] NER [O] isNP [true]
+[semantics] POS [NNS]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[logical] POS [JJ]] NER [O] isNP [false]
+[semantics] POS [NNS]] NER [O] isNP [true]
+[-LRB-] POS [-LRB-]] NER [O] isNP [false]
+[quantification] POS [NN]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[scope] POS [NN]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[negation] POS [NN]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[discourse] POS [NN]] NER [O] isNP [true]
+[-RRB-] POS [-RRB-]] NER [O] isNP [false]
+[,] POS [,]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[syntax-semantics] POS [NNS]] NER [O] isNP [true]
+[interface] POS [NN]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[and] POS [CC]] NER [O] isNP [false]
+[compositional] POS [JJ]] NER [O] isNP [false]
+[semantics] POS [NNS]] NER [O] isNP [true]
+[-LRB-] POS [-LRB-]] NER [O] isNP [false]
+[lambda-calculus] POS [JJ]] NER [O] isNP [false]
+[,] POS [,]] NER [O] isNP [false]
+[semantic] POS [JJ]] NER [O] isNP [false]
+[tagging] POS [NN]] NER [O] isNP [true]
+[-RRB-] POS [-RRB-]] NER [O] isNP [false]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:semantics
+O:discourse
+O:negation
+O:Topics
+O:quantification
+O:roles
+O:word senses
+O:scope
+O:event semantics
+O:syntax-semantics interface
+O:tagging
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+syntax-semantics interface	rdf:type	O		
+quantification	rdf:type	O		
+roles	rdf:type	O		
+event semantics	rdf:type	O		
+tagging	rdf:type	O		
+scope	rdf:type	O		
+semantics	rdf:type	O		
+word senses	rdf:type	O		
+negation	rdf:type	O		
+Topics	rdf:type	O		
+discourse	rdf:type	O		
+Uren per week 4 Onderwijsvorm hoorcollege, practicum (Lecture / practical) programmeeropdrachten, schriftelijk tentamen, wekelijkse Toetsvorm opdrachten (Presentation / programming assignments / weekly assisgnments) Vaksoort master Co rdinator L. Abzianidze, PhD. Docent(en) L. Abzianidze, PhD. Titel Auteur ISBN Prijs Verplichte Representation and Blackburn and Bos 1575864967 ca.
+[Uren] POS [NNP]] NER [O] isNP [true]
+[per] POS [IN]] NER [O] isNP [false]
+[week] POS [NN]] NER [DURATION] isNP [true]
+[4] POS [CD]] NER [NUMBER] isNP [false]
+[Onderwijsvorm] POS [NN]] NER [O] isNP [true]
+[hoorcollege] POS [NN]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[practicum] POS [NN]] NER [O] isNP [true]
+[-LRB-] POS [-LRB-]] NER [O] isNP [false]
+[Lecture] POS [NN]] NER [O] isNP [true]
+[/] POS [:]] NER [O] isNP [false]
+[practical] POS [JJ]] NER [O] isNP [false]
+[-RRB-] POS [-RRB-]] NER [O] isNP [false]
+[programmeeropdrachten] POS [NN]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[schriftelijk] POS [NN]] NER [O] isNP [true]
+[tentamen] POS [NNS]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[wekelijkse] POS [NN]] NER [O] isNP [true]
+[Toetsvorm] POS [NN]] NER [O] isNP [true]
+[opdrachten] POS [NN]] NER [O] isNP [true]
+[-LRB-] POS [-LRB-]] NER [O] isNP [false]
+[Presentation] POS [NN]] NER [O] isNP [true]
+[/] POS [:]] NER [O] isNP [false]
+[programming] POS [NN]] NER [O] isNP [true]
+[assignments] POS [NNS]] NER [O] isNP [true]
+[/] POS [:]] NER [O] isNP [false]
+[weekly] POS [JJ]] NER [SET] isNP [false]
+[assisgnments] POS [NNS]] NER [O] isNP [true]
+[-RRB-] POS [-RRB-]] NER [O] isNP [false]
+[Vaksoort] POS [NNP]] NER [ORGANIZATION] isNP [true]
+[master] POS [NN]] NER [ORGANIZATION] isNP [true]
+[Co] POS [NNP]] NER [ORGANIZATION] isNP [true]
+[rdinator] POS [NNP]] NER [O] isNP [true]
+[L.] POS [NNP]] NER [PERSON] isNP [true]
+[Abzianidze] POS [NNP]] NER [PERSON] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[PhD] POS [NN]] NER [O] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+[Docent] POS [NN]] NER [O] isNP [true]
+[-LRB-] POS [-LRB-]] NER [O] isNP [false]
+[en] POS [IN]] NER [O] isNP [false]
+[-RRB-] POS [-RRB-]] NER [O] isNP [false]
+[L.] POS [FW]] NER [PERSON] isNP [false]
+[Abzianidze] POS [FW]] NER [PERSON] isNP [false]
+[,] POS [,]] NER [O] isNP [false]
+[PhD] POS [NN]] NER [O] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+[Titel] POS [NNP]] NER [O] isNP [true]
+[Auteur] POS [NNP]] NER [O] isNP [true]
+[ISBN] POS [NNP]] NER [O] isNP [true]
+[Prijs] POS [NNP]] NER [O] isNP [true]
+[Verplichte] POS [NNP]] NER [O] isNP [true]
+[Representation] POS [NN]] NER [O] isNP [true]
+[and] POS [CC]] NER [O] isNP [false]
+[Blackburn] POS [NNP]] NER [ORGANIZATION] isNP [true]
+[and] POS [CC]] NER [O] isNP [false]
+[Bos] POS [NNP]] NER [O] isNP [true]
+[1575864967] POS [CD]] NER [NUMBER] isNP [false]
+[ca] POS [MD]] NER [O] isNP [false]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:programmeeropdrachten
+O:Titel Auteur ISBN Prijs Verplichte Representation
+O:practicum
+O:Lecture
+O:Onderwijsvorm hoorcollege
+O:Docent
+O:Presentation
+O:PhD
+O:wekelijkse Toetsvorm opdrachten
+O:schriftelijk tentamen
+ORGANIZATION:Blackburn
+DURATION:week
+O:Uren
+O:programming assignments
+ORGANIZATION:Vaksoort master Co rdinator L. Abzianidze
+O:Bos
+O:assisgnments
+********** OpenIE output **********
+Titel Auteur ISBN Prijs Verplichte Representation	ca	Blackburn		
+********** Purged output **********
+Titel Auteur ISBN Prijs Verplichte Representation	ca	Blackburn		
+********** Final output **********
+Docent	rdf:type	O		
+Titel Auteur ISBN Prijs Verplichte Representation	rdf:type	O		
+Blackburn	rdf:type	ORGANIZATION		
+Lecture	rdf:type	O		
+Vaksoort master Co rdinator L. Abzianidze	rdf:type	ORGANIZATION		
+Bos	rdf:type	O		
+programming assignments	rdf:type	O		
+assisgnments	rdf:type	O		
+Uren	rdf:type	O		
+week	rdf:type	DURATION		
+schriftelijk tentamen	rdf:type	O		
+PhD	rdf:type	O		
+Presentation	rdf:type	O		
+Onderwijsvorm hoorcollege	rdf:type	O		
+wekelijkse Toetsvorm opdrachten	rdf:type	O		
+programmeeropdrachten	rdf:type	O		
+practicum	rdf:type	O		
+Titel Auteur ISBN Prijs Verplichte Representation	ca	Blackburn		
+€ literatuur Inference (2005) 25,00
+[$] POS [$]] NER [O] isNP [false]
+[literatuur] POS [JJ]] NER [O] isNP [false]
+[Inference] POS [NN]] NER [O] isNP [true]
+[-LRB-] POS [-LRB-]] NER [O] isNP [false]
+[2005] POS [CD]] NER [DATE] isNP [false]
+[-RRB-] POS [-RRB-]] NER [O] isNP [false]
+[25,00] POS [CD]] NER [NUMBER] isNP [false]
+********** NER output **********
+O:Inference
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+Inference	rdf:type	O		
+Entreevoorwaarden BA exam Information Science or Artificial Intelligence or similar undergraduate programme.
+[Entreevoorwaarden] POS [JJ]] NER [O] isNP [false]
+[BA] POS [NN]] NER [O] isNP [true]
+[exam] POS [NN]] NER [O] isNP [true]
+[Information] POS [NN]] NER [O] isNP [true]
+[Science] POS [NN]] NER [O] isNP [true]
+[or] POS [CC]] NER [O] isNP [false]
+[Artificial] POS [NNP]] NER [O] isNP [true]
+[Intelligence] POS [NNP]] NER [O] isNP [true]
+[or] POS [CC]] NER [O] isNP [false]
+[similar] POS [JJ]] NER [O] isNP [false]
+[undergraduate] POS [JJ]] NER [O] isNP [false]
+[programme] POS [NN]] NER [O] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:BA exam Information Science
+O:Artificial Intelligence
+O:programme
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+BA exam Information Science	rdf:type	O		
+Artificial Intelligence	rdf:type	O		
+programme	rdf:type	O		
+Some programming experience.
+[Some] POS [DT]] NER [O] isNP [false]
+[programming] POS [NN]] NER [O] isNP [true]
+[experience] POS [NN]] NER [O] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:programming experience
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+programming experience	rdf:type	O		
+Enrollment in Progress will be possible from 17 June until 30 August.
+[Enrollment] POS [NN]] NER [O] isNP [true]
+[in] POS [IN]] NER [O] isNP [false]
+[Progress] POS [NNP]] NER [O] isNP [true]
+[will] POS [MD]] NER [O] isNP [false]
+[be] POS [VB]] NER [O] isNP [false]
+[possible] POS [JJ]] NER [O] isNP [false]
+[from] POS [IN]] NER [O] isNP [false]
+[17] POS [CD]] NER [DATE] isNP [false]
+[June] POS [NNP]] NER [DATE] isNP [true]
+[until] POS [IN]] NER [O] isNP [false]
+[30] POS [CD]] NER [DATE] isNP [false]
+[August] POS [NNP]] NER [DATE] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:Enrollment
+O:Progress
+DATE:June
+DATE:August
+********** OpenIE output **********
+Enrollment	will	will possible until 30 August		
+Enrollment	will	will possible from 17 June		
+Enrollment	is in	Progress		
+Enrollment	will	will possible from 17 June until 30 August		
+Enrollment	will	will possible		
+********** Purged output **********
+Enrollment	is in	Progress		
+Enrollment	will	will possible from 17 June until 30 August		
+********** Final output **********
+Enrollment	rdf:type	O		
+Progress	rdf:type	O		
+June	rdf:type	DATE		
+August	rdf:type	DATE		
+Enrollment	is in	Progress		
+Enrollment	will	will possible from 17 June until 30 August		
+The seminar-group enrollment in Nestor is possible Opmerkingen from 14 August 07:00 hours until 28 August 23.59 hours.
+[The] POS [DT]] NER [O] isNP [false]
+[seminar-group] POS [JJ]] NER [O] isNP [false]
+[enrollment] POS [NN]] NER [O] isNP [true]
+[in] POS [IN]] NER [O] isNP [false]
+[Nestor] POS [NNP]] NER [LOCATION] isNP [true]
+[is] POS [VBZ]] NER [O] isNP [false]
+[possible] POS [JJ]] NER [O] isNP [false]
+[Opmerkingen] POS [NN]] NER [LOCATION] isNP [true]
+[from] POS [IN]] NER [O] isNP [false]
+[14] POS [CD]] NER [TIME] isNP [false]
+[August] POS [NNP]] NER [DATE] isNP [true]
+[07:00] POS [CD]] NER [DATE] isNP [false]
+[hours] POS [NNS]] NER [DATE] isNP [true]
+[until] POS [IN]] NER [DATE] isNP [false]
+[28] POS [CD]] NER [DATE] isNP [false]
+[August] POS [NNP]] NER [DATE] isNP [true]
+[23.59] POS [CD]] NER [DURATION] isNP [false]
+[hours] POS [NNS]] NER [DURATION] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+DURATION:hours
+DATE:hours
+O:enrollment
+LOCATION:Nestor
+DATE:August
+LOCATION:Opmerkingen
+********** OpenIE output **********
+Opmerkingen	is until	August 07:00 hours until 28 August		
+seminar-group enrollment	is in	Nestor		
+seminar-group enrollment	Opmerkingen from	14 August		
+seminar-group enrollment	Opmerkingen until	28 August 23.59 hours		
+Opmerkingen	is from	August 07:00 hours until 28 August		
+enrollment	Opmerkingen until	28 August 23.59 hours		
+seminar-group enrollment	Opmerkingen from	14 August 07:00 hours		
+enrollment	Opmerkingen from	14 August		
+enrollment	Opmerkingen from	14 August 07:00 hours		
+********** Purged output **********
+seminar-group enrollment	Opmerkingen from	14 August 07:00 hours		
+seminar-group enrollment	Opmerkingen until	28 August 23.59 hours		
+enrollment	Opmerkingen until	28 August 23.59 hours		
+enrollment	Opmerkingen from	14 August 07:00 hours		
+Opmerkingen	is from	August 07:00 hours until 28 August		
+seminar-group enrollment	is in	Nestor		
+Opmerkingen	is until	August 07:00 hours until 28 August		
+********** Final output **********
+Opmerkingen	rdf:type	LOCATION		
+enrollment	rdf:type	O		
+August	rdf:type	DATE		
+hours	rdf:type	DURATION		
+Nestor	rdf:type	LOCATION		
+hours	rdf:type	DATE		
+seminar-group enrollment	Opmerkingen from	14 August 07:00 hours		
+seminar-group enrollment	Opmerkingen until	28 August 23.59 hours		
+enrollment	Opmerkingen until	28 August 23.59 hours		
+enrollment	Opmerkingen from	14 August 07:00 hours		
+Opmerkingen	is from	August 07:00 hours until 28 August		
+seminar-group enrollment	is in	Nestor		
+Opmerkingen	is until	August 07:00 hours until 28 August		
+The Faculty maintains the right to change the curriculum, the number of groups and the timetable.
+[The] POS [DT]] NER [O] isNP [false]
+[Faculty] POS [NNP]] NER [ORGANIZATION] isNP [true]
+[maintains] POS [VBZ]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[right] POS [NN]] NER [O] isNP [true]
+[to] POS [TO]] NER [O] isNP [false]
+[change] POS [VB]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[curriculum] POS [NN]] NER [O] isNP [true]
+[,] POS [,]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[number] POS [NN]] NER [O] isNP [true]
+[of] POS [IN]] NER [O] isNP [false]
+[groups] POS [NNS]] NER [O] isNP [true]
+[and] POS [CC]] NER [O] isNP [false]
+[the] POS [DT]] NER [O] isNP [false]
+[timetable] POS [NN]] NER [O] isNP [true]
+[.] POS [.]] NER [O] isNP [false]
+********** NER output **********
+O:timetable
+ORGANIZATION:Faculty
+O:groups
+O:right
+O:curriculum
+O:number
+********** OpenIE output **********
+********** Purged output **********
+********** Final output **********
+number	rdf:type	O		
+Faculty	rdf:type	ORGANIZATION		
+timetable	rdf:type	O		
+groups	rdf:type	O		
+curriculum	rdf:type	O		
+right	rdf:type	O		

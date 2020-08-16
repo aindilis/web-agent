@@ -1,0 +1,1437 @@
+$VAR1 = [
+          [
+            'ocasys University',
+            'Toon',
+            'vak Semantics'
+          ],
+          [
+            'ocasys University',
+            'Toon',
+            'vak Computational Semantics'
+          ],
+          [
+            'ocasys University',
+            'Toon',
+            'vak Computational Semantics'
+          ],
+          [
+            'ocasys University',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Groningen ocasys',
+            'rdf:type',
+            'ORGANIZATION'
+          ],
+          [
+            'vak',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Semantics',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'ocasys University',
+            'Toon',
+            'vak Computational Semantics'
+          ],
+          [
+            'Zet voorkeurtaal op',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Jaar',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'print',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Zet voorkeurtaal op NederlandsNederlands',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'home',
+            'rdf:type',
+            'O'
+          ],
+          [
+            '•',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'loginLogin',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Rijksuniversiteit Groningen Zoek vakken Zoek opleidingen Toon opleidingen',
+            'rdf:type',
+            'PERSON'
+          ],
+          [
+            'faculteit',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Ocasys',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Semantics',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Faculteit Letteren Jaar',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'b ECTS',
+            'rdf:type',
+            'O'
+          ],
+          [
+            's',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Vakcode LIX021M05 Vaknaam Computational Semantics Niveau',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Rooster Concept rooster',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'master Voertaal Engels Periode semester',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'will position',
+            'appreciate',
+            'developments in semantics'
+          ],
+          [
+            'will good position',
+            'appreciate',
+            'developments'
+          ],
+          [
+            'will position',
+            'appreciate',
+            'developments'
+          ],
+          [
+            'will good position',
+            'appreciate',
+            'developments in semantics'
+          ],
+          [
+            'ongoing developments',
+            'is in',
+            'computational semantics'
+          ],
+          [
+            'student',
+            'be',
+            'good'
+          ],
+          [
+            'will good position',
+            'appreciate',
+            'developments in semantics'
+          ],
+          [
+            'student',
+            'be',
+            'good'
+          ],
+          [
+            'ongoing developments',
+            'is in',
+            'computational semantics'
+          ],
+          [
+            'will position',
+            'appreciate',
+            'developments in semantics'
+          ],
+          [
+            'annotation',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'theory',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'developments',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'student',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'techniques',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'semantics',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'course',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'masters',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'position',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Uitgebreide Computational Semantics vaknaam',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'will good position',
+            'appreciate',
+            'developments in semantics'
+          ],
+          [
+            'student',
+            'be',
+            'good'
+          ],
+          [
+            'ongoing developments',
+            'is in',
+            'computational semantics'
+          ],
+          [
+            'will position',
+            'appreciate',
+            'developments in semantics'
+          ],
+          [
+            'analysis',
+            'also provide',
+            'compositional semantics'
+          ],
+          [
+            'analysis',
+            'also provide',
+            'semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'semantic analysis'
+          ],
+          [
+            'formal analysis',
+            'provide',
+            'compositional semantics'
+          ],
+          [
+            'analysis',
+            'provide',
+            'semantics'
+          ],
+          [
+            'student',
+            'give',
+            'formal semantic analysis of Leerdoelen fragment'
+          ],
+          [
+            'semantic analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'formal analysis of Leerdoelen fragment of natural language'
+          ],
+          [
+            'formal analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'analysis of Leerdoelen fragment'
+          ],
+          [
+            'analysis',
+            'also provide',
+            'semantics'
+          ],
+          [
+            'student',
+            'give',
+            'formal analysis of Leerdoelen fragment'
+          ],
+          [
+            'student',
+            'give',
+            'analysis of fragment of natural language'
+          ],
+          [
+            'student',
+            'give',
+            'analysis of fragment of language'
+          ],
+          [
+            'student',
+            'give',
+            'formal analysis'
+          ],
+          [
+            'student',
+            'give',
+            'analysis of fragment'
+          ],
+          [
+            'formal semantic analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal semantic analysis',
+            'also provide',
+            'compositional semantics'
+          ],
+          [
+            'semantic analysis',
+            'provide',
+            'semantics'
+          ],
+          [
+            'analysis',
+            'provide',
+            'compositional semantics'
+          ],
+          [
+            'formal analysis',
+            'also provide',
+            'semantics'
+          ],
+          [
+            'semantic analysis',
+            'also provide',
+            'semantics'
+          ],
+          [
+            'formal semantic analysis',
+            'also provide',
+            'semantics'
+          ],
+          [
+            'student',
+            'give',
+            'semantic analysis of Leerdoelen fragment of language'
+          ],
+          [
+            'student',
+            'give',
+            'analysis'
+          ],
+          [
+            'student',
+            'give',
+            'formal analysis of fragment of language'
+          ],
+          [
+            'student',
+            'give',
+            'semantic analysis of fragment of language'
+          ],
+          [
+            'analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'formal analysis of Leerdoelen fragment of language'
+          ],
+          [
+            'formal semantic analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal analysis',
+            'provide',
+            'semantics'
+          ],
+          [
+            'formal semantic analysis',
+            'also provide',
+            'semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'semantic analysis of fragment'
+          ],
+          [
+            'formal analysis',
+            'provide',
+            'semantics of sentence'
+          ],
+          [
+            'semantic analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'semantic analysis',
+            'provide',
+            'semantics of sentence'
+          ],
+          [
+            'formal analysis',
+            'also provide',
+            'compositional semantics'
+          ],
+          [
+            'student',
+            'give',
+            'analysis of Leerdoelen fragment of language'
+          ],
+          [
+            'semantic analysis',
+            'also provide',
+            'semantics of sentence'
+          ],
+          [
+            'formal analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'formal semantic analysis of fragment'
+          ],
+          [
+            'analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'analysis of Leerdoelen fragment of natural language'
+          ],
+          [
+            'formal semantic analysis',
+            'provide',
+            'semantics of sentence'
+          ],
+          [
+            'formal semantic analysis',
+            'provide',
+            'semantics'
+          ],
+          [
+            'student',
+            'give',
+            'formal analysis of fragment'
+          ],
+          [
+            'student',
+            'is able After',
+            'course'
+          ],
+          [
+            'analysis',
+            'provide',
+            'semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'formal analysis of fragment of natural language'
+          ],
+          [
+            'semantic analysis',
+            'also provide',
+            'compositional semantics'
+          ],
+          [
+            'student',
+            'give',
+            'semantic analysis of Leerdoelen fragment of natural language'
+          ],
+          [
+            'student',
+            'give',
+            'semantic analysis of Leerdoelen fragment'
+          ],
+          [
+            'student',
+            'give',
+            'formal semantic analysis'
+          ],
+          [
+            'student',
+            'give',
+            'semantic analysis of fragment of natural language'
+          ],
+          [
+            'semantic analysis',
+            'provide',
+            'compositional semantics'
+          ],
+          [
+            'formal semantic analysis',
+            'provide',
+            'compositional semantics'
+          ],
+          [
+            'formal analysis',
+            'also provide',
+            'semantics of sentence'
+          ],
+          [
+            'semantic analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal semantic analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'semantic analysis of Leerdoelen fragment of natural language'
+          ],
+          [
+            'analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal semantic analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student',
+            'is able After',
+            'course'
+          ],
+          [
+            'analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'semantic analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'lambda calculus',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'analysis',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'student',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'fragment',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'language',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'semantics',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'course',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'sentence',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'semantic analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal semantic analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student',
+            'give',
+            'semantic analysis of Leerdoelen fragment of natural language'
+          ],
+          [
+            'analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'formal semantic analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student',
+            'is able After',
+            'course'
+          ],
+          [
+            'analysis',
+            'also provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'semantic analysis',
+            'provide',
+            'compositional semantics of sentence'
+          ],
+          [
+            'student awareness',
+            'applied to',
+            'language understanding problems'
+          ],
+          [
+            'student critical awareness',
+            'applied to',
+            'concrete language understanding problems'
+          ],
+          [
+            'student',
+            'has',
+            'grasp of techniques from semantics'
+          ],
+          [
+            'student',
+            'has',
+            'good grasp of techniques from computational semantics'
+          ],
+          [
+            'student',
+            'apply',
+            'computational semantics'
+          ],
+          [
+            'student',
+            'awareness of',
+            'possibilities of logic'
+          ],
+          [
+            'student',
+            'has',
+            'grasp of techniques from computational semantics'
+          ],
+          [
+            'student',
+            'has',
+            'good grasp of techniques from semantics'
+          ],
+          [
+            'student',
+            'critical awareness of',
+            'possibilities'
+          ],
+          [
+            'student',
+            'awareness of',
+            'possibilities of first-order logic'
+          ],
+          [
+            'student critical awareness',
+            'applied to',
+            'language understanding problems'
+          ],
+          [
+            'student awareness',
+            'applied to',
+            'concrete language understanding problems'
+          ],
+          [
+            'student',
+            'has',
+            'good grasp of techniques'
+          ],
+          [
+            'student',
+            'awareness of',
+            'possibilities'
+          ],
+          [
+            'student',
+            'apply computational semantics in',
+            'practical application'
+          ],
+          [
+            'student',
+            'critical awareness of',
+            'possibilities of logic'
+          ],
+          [
+            'student',
+            'has',
+            'grasp of techniques'
+          ],
+          [
+            'student',
+            'apply computational semantics in',
+            'application'
+          ],
+          [
+            'student',
+            'critical awareness of',
+            'possibilities of first-order logic'
+          ],
+          [
+            'student awareness',
+            'applied to',
+            'concrete language understanding problems'
+          ],
+          [
+            'student',
+            'has',
+            'good grasp of techniques from computational semantics'
+          ],
+          [
+            'student',
+            'apply computational semantics in',
+            'practical application'
+          ],
+          [
+            'student',
+            'critical awareness of',
+            'possibilities of first-order logic'
+          ],
+          [
+            'student critical awareness',
+            'applied to',
+            'concrete language understanding problems'
+          ],
+          [
+            'student',
+            'awareness of',
+            'possibilities of first-order logic'
+          ],
+          [
+            'student',
+            'apply',
+            'computational semantics'
+          ],
+          [
+            'limitations',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'logic',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'student',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'techniques',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'application',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'language understanding problems',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'resources',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'semantics',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'possibilities',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'awareness',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'grasp',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'student awareness',
+            'applied to',
+            'concrete language understanding problems'
+          ],
+          [
+            'student',
+            'has',
+            'good grasp of techniques from computational semantics'
+          ],
+          [
+            'student',
+            'apply computational semantics in',
+            'practical application'
+          ],
+          [
+            'student',
+            'critical awareness of',
+            'possibilities of first-order logic'
+          ],
+          [
+            'student critical awareness',
+            'applied to',
+            'concrete language understanding problems'
+          ],
+          [
+            'student',
+            'awareness of',
+            'possibilities of first-order logic'
+          ],
+          [
+            'student',
+            'apply',
+            'computational semantics'
+          ],
+          [
+            'number',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'representations',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'techniques',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'language',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'course',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'theory',
+            'are',
+            'discussed'
+          ],
+          [
+            'underlying theory',
+            'discussed',
+            'implementation'
+          ],
+          [
+            'underlying theory',
+            'are',
+            'discussed'
+          ],
+          [
+            'theory',
+            'discussed',
+            'implementation'
+          ],
+          [
+            'theory',
+            'discussed',
+            'implementation'
+          ],
+          [
+            'theory',
+            'are',
+            'discussed'
+          ],
+          [
+            'underlying theory',
+            'are',
+            'discussed'
+          ],
+          [
+            'underlying theory',
+            'discussed',
+            'implementation'
+          ],
+          [
+            'theory',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'implementation',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'theory',
+            'discussed',
+            'implementation'
+          ],
+          [
+            'theory',
+            'are',
+            'discussed'
+          ],
+          [
+            'underlying theory',
+            'are',
+            'discussed'
+          ],
+          [
+            'underlying theory',
+            'discussed',
+            'implementation'
+          ],
+          [
+            'process',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'representations',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'expressions',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'language',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'course',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'question',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'syntax-semantics interface',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'quantification',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'roles',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'event semantics',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'tagging',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'scope',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'semantics',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'word senses',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'negation',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Topics',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'discourse',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Titel Auteur ISBN Prijs Verplichte Representation',
+            'ca',
+            'Blackburn'
+          ],
+          [
+            'Titel Auteur ISBN Prijs Verplichte Representation',
+            'ca',
+            'Blackburn'
+          ],
+          [
+            'Docent',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Titel Auteur ISBN Prijs Verplichte Representation',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Blackburn',
+            'rdf:type',
+            'ORGANIZATION'
+          ],
+          [
+            'Lecture',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Vaksoort master Co rdinator L. Abzianidze',
+            'rdf:type',
+            'ORGANIZATION'
+          ],
+          [
+            'Bos',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'programming assignments',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'assisgnments',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Uren',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'week',
+            'rdf:type',
+            'DURATION'
+          ],
+          [
+            'schriftelijk tentamen',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'PhD',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Presentation',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Onderwijsvorm hoorcollege',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'wekelijkse Toetsvorm opdrachten',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'programmeeropdrachten',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'practicum',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Titel Auteur ISBN Prijs Verplichte Representation',
+            'ca',
+            'Blackburn'
+          ],
+          [
+            'Inference',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'BA exam Information Science',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Artificial Intelligence',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'programme',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'programming experience',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Enrollment',
+            'will',
+            'will possible until 30 August'
+          ],
+          [
+            'Enrollment',
+            'will',
+            'will possible from 17 June'
+          ],
+          [
+            'Enrollment',
+            'is in',
+            'Progress'
+          ],
+          [
+            'Enrollment',
+            'will',
+            'will possible from 17 June until 30 August'
+          ],
+          [
+            'Enrollment',
+            'will',
+            'will possible'
+          ],
+          [
+            'Enrollment',
+            'is in',
+            'Progress'
+          ],
+          [
+            'Enrollment',
+            'will',
+            'will possible from 17 June until 30 August'
+          ],
+          [
+            'Enrollment',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Progress',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'June',
+            'rdf:type',
+            'DATE'
+          ],
+          [
+            'August',
+            'rdf:type',
+            'DATE'
+          ],
+          [
+            'Enrollment',
+            'is in',
+            'Progress'
+          ],
+          [
+            'Enrollment',
+            'will',
+            'will possible from 17 June until 30 August'
+          ],
+          [
+            'Opmerkingen',
+            'is until',
+            'August 07:00 hours until 28 August'
+          ],
+          [
+            'seminar-group enrollment',
+            'is in',
+            'Nestor'
+          ],
+          [
+            'seminar-group enrollment',
+            'Opmerkingen from',
+            '14 August'
+          ],
+          [
+            'seminar-group enrollment',
+            'Opmerkingen until',
+            '28 August 23.59 hours'
+          ],
+          [
+            'Opmerkingen',
+            'is from',
+            'August 07:00 hours until 28 August'
+          ],
+          [
+            'enrollment',
+            'Opmerkingen until',
+            '28 August 23.59 hours'
+          ],
+          [
+            'seminar-group enrollment',
+            'Opmerkingen from',
+            '14 August 07:00 hours'
+          ],
+          [
+            'enrollment',
+            'Opmerkingen from',
+            '14 August'
+          ],
+          [
+            'enrollment',
+            'Opmerkingen from',
+            '14 August 07:00 hours'
+          ],
+          [
+            'seminar-group enrollment',
+            'Opmerkingen from',
+            '14 August 07:00 hours'
+          ],
+          [
+            'seminar-group enrollment',
+            'Opmerkingen until',
+            '28 August 23.59 hours'
+          ],
+          [
+            'enrollment',
+            'Opmerkingen until',
+            '28 August 23.59 hours'
+          ],
+          [
+            'enrollment',
+            'Opmerkingen from',
+            '14 August 07:00 hours'
+          ],
+          [
+            'Opmerkingen',
+            'is from',
+            'August 07:00 hours until 28 August'
+          ],
+          [
+            'seminar-group enrollment',
+            'is in',
+            'Nestor'
+          ],
+          [
+            'Opmerkingen',
+            'is until',
+            'August 07:00 hours until 28 August'
+          ],
+          [
+            'Opmerkingen',
+            'rdf:type',
+            'LOCATION'
+          ],
+          [
+            'enrollment',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'August',
+            'rdf:type',
+            'DATE'
+          ],
+          [
+            'hours',
+            'rdf:type',
+            'DURATION'
+          ],
+          [
+            'Nestor',
+            'rdf:type',
+            'LOCATION'
+          ],
+          [
+            'hours',
+            'rdf:type',
+            'DATE'
+          ],
+          [
+            'seminar-group enrollment',
+            'Opmerkingen from',
+            '14 August 07:00 hours'
+          ],
+          [
+            'seminar-group enrollment',
+            'Opmerkingen until',
+            '28 August 23.59 hours'
+          ],
+          [
+            'enrollment',
+            'Opmerkingen until',
+            '28 August 23.59 hours'
+          ],
+          [
+            'enrollment',
+            'Opmerkingen from',
+            '14 August 07:00 hours'
+          ],
+          [
+            'Opmerkingen',
+            'is from',
+            'August 07:00 hours until 28 August'
+          ],
+          [
+            'seminar-group enrollment',
+            'is in',
+            'Nestor'
+          ],
+          [
+            'Opmerkingen',
+            'is until',
+            'August 07:00 hours until 28 August'
+          ],
+          [
+            'number',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'Faculty',
+            'rdf:type',
+            'ORGANIZATION'
+          ],
+          [
+            'timetable',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'groups',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'curriculum',
+            'rdf:type',
+            'O'
+          ],
+          [
+            'right',
+            'rdf:type',
+            'O'
+          ]
+        ];
